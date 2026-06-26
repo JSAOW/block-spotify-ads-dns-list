@@ -31,3 +31,4 @@ secure.adnxs.com
 ib.adnxs.com
 adservice.google.com
 adservice.google.co
+https://shops.cadillacfairview.com
